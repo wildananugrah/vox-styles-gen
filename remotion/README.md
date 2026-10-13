@@ -1,54 +1,19 @@
-# Remotion video
+# Vox-style videos (Remotion)
 
-<p align="center">
-  <a href="https://github.com/remotion-dev/logo">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-dark.apng">
-      <img alt="Animated Remotion Logo" src="https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-light.gif">
-    </picture>
-  </a>
-</p>
-
-Welcome to your Remotion project!
-
-## Commands
-
-**Install Dependencies**
+Vertical 1080x1920 explainer videos in the Vox-documentary paper style, one `videos/<slug>/content.json` per video.
+The full workflow and content rules are in `.claude/skills/vox-video/SKILL.md`.
 
 ```console
-npm i --loglevel=error
+npm run new -- <slug>        # videos/<slug>/content.json from the example
+npm run studio -- <slug>     # live preview with a scrubber
+npm run stills -- <slug>     # key-moment stills + contact sheet in videos/<slug>/dbg/
+npm run render -- <slug>     # videos/<slug>/<slug>.mp4   (--from s --to s for a section)
+npm test                     # unit tests: keyframes, timeline, markup, schema
+npm run lint                 # eslint + tsc
+npm run textures             # regenerate public/textures/ (deterministic)
 ```
 
-**Start Preview**
+Design: `../docs/superpowers/specs/2026-10-10-remotion-vox-engine-design.md`.
 
-```console
-npm run dev
-```
-
-**Render video**
-
-```console
-npx remotion render
-```
-
-**Upgrade Remotion**
-
-```console
-npx remotion upgrade
-```
-
-## Docs
-
-Get started with Remotion by reading the [fundamentals page](https://www.remotion.dev/docs/the-fundamentals).
-
-## Help
-
-We provide help on our [Discord server](https://discord.gg/6VzzNDwUwV).
-
-## Issues
-
-Found an issue with Remotion? [File an issue here](https://github.com/remotion-dev/remotion/issues/new).
-
-## License
-
-Note that for some entities a company license is needed. [Read the terms here](https://github.com/remotion-dev/remotion/blob/main/LICENSE.md).
+Remotion is free for individuals and companies of up to 3 people; larger companies need a license
+(https://www.remotion.dev/license).

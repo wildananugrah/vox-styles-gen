@@ -1,0 +1,90 @@
+{
+  "style": "collage",
+  "fps": 30,
+  "title": "Yoris Sebastian: 6 pelajaran kreatif (Raditya Dika)",
+  "photo": { "cutout": "collage/yoris-cutout.png", "face": "collage/yoris-face.png" },
+  "badge": "YORIS SEBASTIAN · OMG CONSULTING · ",
+  "hook": {
+    "tape": "RADITYA DIKA × YORIS SEBASTIAN",
+    "strips": ["ORANG PALING KREATIF", "YANG SAYA KENAL"],
+    "caption": "Ide kamu sering ==ditolak==? Coba dengar cara dia mikir.",
+    "note": "Yoris Sebastian",
+    "stamp": "RINGKASAN"
+  },
+  "intro": {
+    "tape": "PENDIRI OMG CONSULTING",
+    "strips": ["PELAJARAN", "KREATIF"],
+    "quote": "dari Yoris Sebastian",
+    "caption": "Disarikan dari obrolannya di kanal ==Raditya Dika==.",
+    "note": "versi singkatnya",
+    "stamp": "CATAT!"
+  },
+  "lessons": [
+    {
+      "title": ["KREATIF HARUS", "ADA ALASANNYA"],
+      "time": "06:48",
+      "stamp": "PURPOSE",
+      "hero": { "kind": "quote", "text": "Different with meaning." },
+      "caption": "Beda itu bukan buat sensasi atau ==biar lucu==. Contoh: ganti warna gelas minuman premium buat ==dongkrak penjualan==.",
+      "note": "bukan asal beda"
+    },
+    {
+      "title": ["DITOLAK?", "PUTAR STRATEGI"],
+      "time": "01:41",
+      "stamp": "DITOLAK",
+      "cross": true,
+      "hero": { "kind": "big", "text": "SENIN", "sub": "I Like Monday · Hard Rock Cafe" },
+      "caption": "Konser artis lokalnya ditolak? Yoris pindahin ke ==hari Senin== yang sepi, hitung ulang proyeksinya, omzetnya ==berlipat==.",
+      "note": "jangan baper!"
+    },
+    {
+      "title": ["OTAK KANAN", "+ OTAK KIRI"],
+      "time": "1:09:04",
+      "stamp": "STRUKTUR",
+      "hero": { "kind": "quote", "text": "Thinking out of the box, execute inside the box." },
+      "caption": "Ide liar butuh ==struktur==: data, riset, disiplin. Contohnya, nyusun kerangka buku di ==Excel==.",
+      "note": "liar tapi rapi"
+    },
+    {
+      "title": ["AI ITU", "TEMAN SPARRING"],
+      "time": "41:11",
+      "stamp": "CEK LAGI",
+      "hero": { "kind": "big", "text": "AI", "sub": "sparring partner, bukan otak" },
+      "caption": "Jangan ==copas== jawaban AI mentah-mentah. Cek datanya, tantang idenya biar gak generic. ==Rasa== tetap dari kamu.",
+      "note": "human taste!"
+    },
+    {
+      "title": ["LINDUNGI", "1 JAM PERTAMA"],
+      "time": "57:49",
+      "stamp": "NO HP",
+      "hero": { "kind": "big", "text": "05.00", "sub": "tidur 8 jam, bangun jam 5" },
+      "caption": "Satu jam pertama setelah bangun buat kerjaan mikir ==paling penting==, sebelum ==pegang HP==.",
+      "note": "notif nanti dulu"
+    },
+    {
+      "title": ["LATIHAN DARI", "HAL KECIL"],
+      "time": "1:10:32",
+      "stamp": "COBA!",
+      "hero": { "kind": "big", "text": "KADO", "sub": "yang personal & berkesan" },
+      "caption": "Kantor kurang ruang kreatif? Latihan lewat ==kado personal== buat orang terdekat. Lihat reaksinya, bikin ==nagih==.",
+      "note": "coba minggu ini"
+    }
+  ],
+  "bonus": {
+    "tape": "BONUS · BUKU MEANINGFUL STORYTELLING",
+    "strips": ["KONTEN BAGUS", "BUTUH 3 HAL"],
+    "stamp": "SENSASI KOSONG",
+    "items": [
+      { "word": "MEANINGFUL", "text": "ada esensinya" },
+      { "word": "USEFUL", "text": "kasih solusi nyata" },
+      { "word": "PROOF", "text": "ada bukti yang valid" }
+    ],
+    "note": "viral doang? skip."
+  },
+  "end": {
+    "strips": ["MANA YANG", "PALING KENA?"],
+    "caption": "Tulis ==nomor pelajarannya== di kolom komentar.",
+    "note": "simpan buat nanti!",
+    "tape": "TONTON FULL DI KANAL RADITYA DIKA"
+  }
+}

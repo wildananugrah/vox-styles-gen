@@ -1,0 +1,86 @@
+{
+  "title": "Creator Shortlist",
+  "item": "creators",
+  "fps": 24,
+  "hook": {
+    "strips": [
+      "10 hacks to fix your life",
+      "Doctors hate this one trick",
+      "Quit your job today",
+      "Get rich by 25",
+      "Do this every morning!!",
+      "Fix your kid in 3 days",
+      "Burn fat while you sleep"
+    ],
+    "lines": [
+      "Your feed is full of advice.",
+      "Most of it is __noise.__",
+      "So who's ==worth== ==learning from?=="
+    ]
+  },
+  "titleCard": {
+    "kicker": "The shortlist / {chapters} topics",
+    "head": ["{count} creators", "worth", "==learning== ==from.=="]
+  },
+  "chapters": [
+    {
+      "title": "Health & Longevity",
+      "toc": "Health & Longevity",
+      "intro": "Sleep, stress & living longer",
+      "cards": [
+        { "n": "Andrew Huberman", "i": "AH", "meta": "Huberman Lab · Stanford neurobiology", "tags": ["Sleep", "Hormones", "Stress"] },
+        { "n": "Peter Attia", "i": "PA", "meta": "Physician · longevity medicine", "tags": ["Metabolic health", "Heart disease prevention", "Biomarkers"] },
+        { "n": "Rhonda Patrick", "i": "RP", "meta": "FoundMyFitness · biomedical scientist", "tags": ["Micronutrients", "Sauna & fasting", "Cellular aging"] }
+      ]
+    },
+    {
+      "title": "Gym & Hypertrophy",
+      "toc": "Gym & Hypertrophy",
+      "intro": "Technique, programs & form",
+      "cards": [
+        { "n": "Jeff Nippard", "i": "JN", "meta": "Natural pro bodybuilder", "tags": ["Lifting technique", "Biomechanics", "Hypertrophy nutrition"] },
+        { "n": "Mike Israetel", "i": "MI", "meta": "Renaissance Periodization · PhD", "tags": ["Program design", "Fat-loss science", "Sharp humor"] },
+        { "n": "Jeremy Ethier", "i": "JE", "meta": "Built With Science · 3D anatomy", "tags": ["Form fixes", "Lagging muscles", "Efficient routines"] },
+        { "n": "Eugene Teo", "i": "ET", "meta": "Biomechanics · longevity training", "tags": ["Joint-friendly lifting", "Muscle imbalances"] }
+      ]
+    },
+    {
+      "title": "Parenting & Kids",
+      "toc": "Parenting & Kids",
+      "intro": "Tantrums, feelings & connection",
+      "cards": [
+        { "n": "Becky Kennedy", "i": "BK", "meta": "Good Inside · clinical psychologist", "tags": ["Gentle boundaries", "Tantrums", "Emotional regulation"] },
+        { "n": "Big Little Feelings", "i": "BLF", "meta": "Kristin & Deena · toddler scripts", "tags": ["Meltdowns", "Daily routines", "Real-life scenarios"] },
+        { "n": "Aliza Pressman", "i": "AP", "meta": "Raising Good Humans · developmental psychologist", "tags": ["Child development", "Parental anxiety"] }
+      ]
+    },
+    {
+      "title": "Habits & Mindset",
+      "toc": "Habits & Mindset",
+      "intro": "Productivity, habits & self-doubt",
+      "cards": [
+        { "n": "Ali Abdaal", "i": "AA", "meta": "Former physician", "tags": ["Productivity", "Habit formation", "Life design"] },
+        { "n": "Matt D'Avella", "i": "MD", "meta": "Minimalist filmmaker", "tags": ["30-day experiments", "Burnout", "Digital clutter"] },
+        { "n": "Mel Robbins", "i": "MR", "meta": "The 5-Second Rule", "tags": ["Taking action", "Self-doubt", "Mindset reframes"] },
+        { "n": "Mark Manson", "i": "MM", "meta": "Author · blunt essays", "tags": ["Emotional maturity", "Realistic expectations", "Values"] }
+      ]
+    },
+    {
+      "title": "Career & Work",
+      "toc": "Career & Work",
+      "intro": "Get hired, get paid, get promoted",
+      "cards": [
+        { "n": "Jeff Su", "i": "JS", "meta": "Ex-Googler", "tags": ["Productivity tools", "Networking scripts", "Work communication"] },
+        { "n": "Bryan Creely", "i": "BC", "meta": "A Life After Layoff · ex-recruiter", "tags": ["Resumes", "Salary negotiation", "Hiring insights"] },
+        { "n": "Linda Raynier", "i": "LR", "meta": "Career strategist · executive coach", "tags": ["Tricky interview questions", "Promotions"] },
+        { "n": "Madeline Mann", "i": "MM", "meta": "Self Made Millennial", "tags": ["Beating ATS filters", "LinkedIn outreach", "Job search"] }
+      ]
+    }
+  ],
+  "end": {
+    "kicker": "How to use this list",
+    "head": ["Pick ==one== topic.", "Follow ==one== creator.", "Start there."],
+    "save": "Save this for later",
+    "ask": "Who did we miss? Drop a name in the comments."
+  }
+}

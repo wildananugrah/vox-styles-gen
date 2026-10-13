@@ -1,0 +1,381 @@
+{
+  "style": "textbook",
+  "title": "Salah kaprah serat pangan",
+  "fps": 24,
+  "runningHead": "Bab VII · Serat Pangan",
+  "firstPage": 112,
+  "hook": {
+    "kicker": "Uji Diri · Soal 1",
+    "question": [
+      "Jus buah dan",
+      "agar-agar itu",
+      "tinggi serat?"
+    ],
+    "options": [
+      "Benar",
+      "Keliru"
+    ],
+    "answer": 1,
+    "stamp": "Salah Kaprah"
+  },
+  "cover": {
+    "series": "Ilmu Gizi Sehari-hari",
+    "chapter": "Bab VII",
+    "title": "Serat Pangan",
+    "subtitle": "Mitos & Fakta",
+    "sub": "Kandungan serat per 100 gram bahan",
+    "introHead": "Pendahuluan",
+    "intro": "Banyak kekeliruan seputar kandungan serat makanan sering kali muncul karena tekstur atau persepsi sehat semata, seperti menganggap sari buah atau agar-agar kaya akan serat."
+  },
+  "plates": [
+    {
+      "title": "Tinggi Serat",
+      "sub": "per 100 gram bahan",
+      "image": "serat/01-tinggi-serat.png",
+      "caption": "Lima sumber serat yang padat.",
+      "items": [
+        {
+          "n": "Biji chia",
+          "v": "~34 g",
+          "note": "Sangat padat serat larut dan tidak larut.",
+          "fig": "Biji chia",
+          "labels": [
+            [
+              254,
+              204,
+              413,
+              237
+            ]
+          ],
+          "focus": [
+            470,
+            255
+          ]
+        },
+        {
+          "n": "Kacang merah / hitam rebus",
+          "v": "~7–9 g",
+          "note": "Sumber serat harian yang sangat efisien.",
+          "fig": "Kacang",
+          "labels": [
+            [
+              123,
+              462,
+              348,
+              514
+            ]
+          ],
+          "focus": [
+            270,
+            390
+          ]
+        },
+        {
+          "n": "Oat, mentah",
+          "v": "~10 g",
+          "note": "Kaya akan beta-glukan.",
+          "fig": "Oat",
+          "labels": [
+            [
+              624,
+              446,
+              739,
+              477
+            ]
+          ],
+          "focus": [
+            565,
+            440
+          ]
+        },
+        {
+          "n": "Alpukat",
+          "v": "~6,7 g",
+          "note": "Buah dengan kepadatan serat tertinggi.",
+          "fig": "Alpukat",
+          "labels": [
+            [
+              744,
+              189,
+              904,
+              221
+            ]
+          ],
+          "focus": [
+            690,
+            280
+          ]
+        },
+        {
+          "n": "Tempe",
+          "v": "~3,3 g",
+          "note": "Kedelai utuh, dinding selnya tetap terjaga.",
+          "fig": "Tempe",
+          "labels": [
+            [
+              789,
+              476,
+              946,
+              508
+            ]
+          ],
+          "focus": [
+            870,
+            420
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Serat Sedang",
+      "sub": "per 100 gram bahan",
+      "image": "serat/02-sedang-serat.png",
+      "caption": "Sayur, buah dan nasi sehari-hari.",
+      "items": [
+        {
+          "n": "Brokoli rebus",
+          "v": "~2,6 g",
+          "note": "Sayuran hijau umum yang seimbang.",
+          "fig": "Brokoli",
+          "labels": [
+            [
+              242,
+              189,
+              402,
+              244
+            ]
+          ],
+          "focus": [
+            510,
+            290
+          ]
+        },
+        {
+          "n": "Apel dengan kulit",
+          "v": "~2,4 g",
+          "note": "Sebagian besar seratnya ada di kulit.",
+          "fig": "Apel",
+          "labels": [
+            [
+              805,
+              166,
+              982,
+              221
+            ],
+            [
+              68,
+              296,
+              216,
+              354
+            ]
+          ],
+          "focus": [
+            760,
+            230
+          ]
+        },
+        {
+          "n": "Wortel rebus",
+          "v": "~2,8 g",
+          "note": "Tetap berserat baik saat dimasak matang.",
+          "fig": "Wortel",
+          "labels": [
+            [
+              94,
+              474,
+              246,
+              531
+            ]
+          ],
+          "focus": [
+            150,
+            440
+          ]
+        },
+        {
+          "n": "Pisang",
+          "v": "~2,6 g",
+          "note": "Mengandung pektin dan pati resisten alami.",
+          "fig": "Pisang",
+          "labels": [
+            [
+              625,
+              450,
+              708,
+              503
+            ]
+          ],
+          "focus": [
+            630,
+            420
+          ]
+        },
+        {
+          "n": "Nasi merah matang",
+          "v": "~1,8 g",
+          "note": "Lebih tinggi serat dari beras putih giling.",
+          "fig": "Nasi merah",
+          "labels": [
+            [
+              815,
+              474,
+              946,
+              531
+            ]
+          ],
+          "focus": [
+            870,
+            400
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Rendah Serat",
+      "sub": "yang sering dikira tinggi serat",
+      "warn": true,
+      "image": "serat/03-tanpa-serat.png",
+      "caption": "Tampak sehat, tetapi miskin serat.",
+      "items": [
+        {
+          "n": "Jus buah saring",
+          "v": "0–0,2 g",
+          "note": "Ampas serat terbuang saat ekstraksi.",
+          "fig": "Jus buah",
+          "labels": [
+            [
+              232,
+              208,
+              423,
+              269
+            ]
+          ],
+          "focus": [
+            510,
+            290
+          ]
+        },
+        {
+          "n": "Agar-agar murni",
+          "v": "0–0,5 g",
+          "note": "Gel air, bukan serat pangan padat harian.",
+          "fig": "Agar-agar",
+          "labels": [
+            [
+              44,
+              308,
+              238,
+              368
+            ],
+            [
+              78,
+              466,
+              270,
+              523
+            ]
+          ],
+          "focus": [
+            290,
+            420
+          ]
+        },
+        {
+          "n": "Roti gandum olahan",
+          "v": "~1–2 g",
+          "note": "Sering kali tepung rafinasi + pewarna karamel.",
+          "fig": "Roti gandum",
+          "labels": [
+            [
+              775,
+              186,
+              940,
+              243
+            ]
+          ],
+          "focus": [
+            720,
+            280
+          ]
+        },
+        {
+          "n": "Tahu",
+          "v": "~0,3–0,9 g",
+          "note": "Ampas kedelai (okara) sudah disaring keluar.",
+          "fig": "Tahu",
+          "labels": [
+            [
+              627,
+              473,
+              742,
+              530
+            ]
+          ],
+          "focus": [
+            610,
+            440
+          ]
+        },
+        {
+          "n": "Rebung rebus",
+          "v": "~1,5 g",
+          "note": "Renyah dan berserat kayu, serat nettonya rendah.",
+          "fig": "Rebung",
+          "labels": [
+            [
+              799,
+              466,
+              972,
+              523
+            ]
+          ],
+          "focus": [
+            870,
+            390
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": {
+    "title": "Catatan Penting",
+    "sub": "tiga salah kaprah yang paling umum",
+    "points": [
+      {
+        "h": "Berserabut ≠ tinggi serat",
+        "b": "Daging sapi sama sekali nol serat. Seledri didominasi air: hanya ~1,6 g per 100 g."
+      },
+      {
+        "h": "Ekstraksi mematikan serat",
+        "b": "Buah utuh yang dijadikan jus kehilangan matriks serat yang memperlambat penyerapan gula darah."
+      },
+      {
+        "h": "Tempe lawan tahu",
+        "b": "Tempe memfermentasi kedelai utuh; ampas tahu disaring dan dibuang.",
+        "bars": [
+          {
+            "label": "Tempe",
+            "lo": 3.3,
+            "hi": 3.3,
+            "v": "~3,3 g"
+          },
+          {
+            "label": "Tahu",
+            "lo": 0.3,
+            "hi": 0.9,
+            "v": "~0,3–0,9 g"
+          }
+        ]
+      }
+    ]
+  },
+  "end": {
+    "refsHead": "Daftar Pustaka",
+    "refs": [
+      "USDA FoodData Central. Basis data nutrisi bahan pangan mentah dan olahan.",
+      "Tabel Komposisi Pangan Indonesia (TKPI). Kementerian Kesehatan Republik Indonesia."
+    ],
+    "save": "Simpan halaman ini.",
+    "ask": "Makanan apa lagi yang kamu kira tinggi serat? Tulis di komentar.",
+    "fin": "Tamat Bab VII"
+  }
+}
